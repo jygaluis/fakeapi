@@ -40,5 +40,25 @@
 		  "Issue": "HOOD - Repegon ",
 		  "Responsible": "Body",
 		  "Qty": 565}
+	],
+
+    "Graphs": {
+        "DPHU": [0, 50, 100, 150],
+        "V1":[            
+		    {"Month": "oct",
+		    "valueX": 38},
+		    {"Month": "nov",
+		    "valueX": 33},
+		    {"Month": "dec",
+		    "valueX": 44}
+	],
+	"V2":[
+        	    {"Month": "oct",
+		    "valueX": 134},
+		    {"Month": "nov",
+		    "valueX": 453},
+		    {"Month": "dec",
+		    "valueX": 876}
 	]
+    }
 }
