@@ -29,21 +29,24 @@
 		  "Responsible": "Body",
 		  "Qty": 675},
 		{
+		  "Level": "level"
 		  "Issue": "HOOD VS. BUMPER - HOLGURA CERRADA",
 		  "Responsible": "Body",
 		  "Qty": 345},
 		{
+		  "Level": "level"
 		  "Issue": " ROOF SIDE - ABOLLADA (O)",
 		  "Responsible": "Body",
 		  "Qty": 233},
 		{
+		  "Level": "level"
 		  "Issue": "HOOD - Repegon ",
 		  "Responsible": "Body",
 		  "Qty": 565}
 	],
 
     "Graphs": {
-        "DPHU": [0, 50, 100, 150],
+        "DPHU": [50],
         "V1":[            
 		    {"Month": "oct",
 		    "valueX": 38},
